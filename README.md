@@ -1,6 +1,8 @@
 # GeneticAlgorithm
 Implemented a genetic algorithm to evolve control strategies for Robby the Robot, as described in Chapter 9 of Complexity: A Guided Tour by Melanie Mitchell. 
 
+To run the code, download the file robby.zip Download robby.zipand unzip it. This will create a folder named robby. Put this folder in the same location as the Python program robby.py. IMPORTANT: do not put the Python file or any other files inside the folder; just make sure the folder is in the same location as the program file. You should not modify any of the code in this folder. 
+
 A control strategy is represented as a string of characters that code for the following robot actions:
 
 0 = MoveNorth
